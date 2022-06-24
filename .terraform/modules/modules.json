@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"remote_module_2","Source":"git::ssh://git@github.com/saktil/remote-yor.git","Dir":".terraform/modules/remote_module_2"},{"Key":"remote_module","Source":"git::ssh://git@github.com/saktil/remote-yor.git","Dir":".terraform/modules/remote_module"}]}
